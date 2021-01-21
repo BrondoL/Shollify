@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "911450163670",
+    "project_id": "shollify-fe890",
+    "storage_bucket": "shollify-fe890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911450163670:android:b140503d94589f299e3c77",
+        "android_client_info": {
+          "package_name": "com.brondol.shollify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911450163670-fbsb7n5a8jcq6q3nvukepjm2rq8eemgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brondol.shollify",
+            "certificate_hash": "cd0ecfac97b8c6a1dc31ae1bb42b733b946302b3"
+          }
+        },
+        {
+          "client_id": "911450163670-n82p5hl1qfbntuivkibubsspj6imeodk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUzax3QoVrZmrYRn-J6XKS-oiXwblF-_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911450163670-n82p5hl1qfbntuivkibubsspj6imeodk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

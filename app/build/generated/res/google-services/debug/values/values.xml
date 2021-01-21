@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">911450163670-n82p5hl1qfbntuivkibubsspj6imeodk.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">911450163670</string>
+    <string name="google_api_key" translatable="false">AIzaSyDUzax3QoVrZmrYRn-J6XKS-oiXwblF-_Y</string>
+    <string name="google_app_id" translatable="false">1:911450163670:android:b140503d94589f299e3c77</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDUzax3QoVrZmrYRn-J6XKS-oiXwblF-_Y</string>
+    <string name="google_storage_bucket" translatable="false">shollify-fe890.appspot.com</string>
+    <string name="project_id" translatable="false">shollify-fe890</string>
+</resources>
